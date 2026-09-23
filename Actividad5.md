@@ -234,7 +234,7 @@ Los tres integrantes realizaron una reunión virtual para discutir los escenario
 
 > Insertar aquí la captura de pantalla donde aparezcan Jimena, Kerner y Hanse reunidos en Meet.
 
-![Evidencia de reunión](captura_meet.png)
+![Evidencia de reunión](https://github.com/hjuarez-202501149/Actividad_5AS_g4/blob/master/meet.png)
 
 ---
 
