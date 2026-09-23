@@ -34,3 +34,39 @@ Aplicar técnicas de comunicación asertiva en diferentes situaciones académica
 | **Todos** | Revisión final, discusión de los escenarios, conclusiones y reunión por Meet. |
 
 ---
+
+### Situación
+
+Un compañero solicita ayuda urgente para terminar una actividad, pero en ese momento tengo una carga de trabajo alta y también debo terminar mis propias responsabilidades.
+
+### Problema de comunicación
+
+El problema se presenta porque quiero ayudar a mi compañero, pero aceptar inmediatamente podría afectar mis propias tareas.
+
+En esta situación es necesario establecer un límite sin responder de una manera agresiva o hacer sentir mal a la otra persona.
+
+### Técnica utilizada
+
+Se utiliza la comunicación asertiva para **decir “no” de forma profesional**, explicando brevemente la situación y, si es posible, ofreciendo una alternativa.
+
+### Respuesta asertiva
+
+> “Entiendo que necesitas ayuda y me gustaría apoyarte, pero en este momento también tengo varias actividades que debo terminar. No podría ayudarte ahora sin atrasarme con mi trabajo. Si quieres, cuando termine lo que estoy haciendo puedo ayudarte a revisar alguna parte específica.”
+
+### Análisis
+
+La respuesta permite establecer un límite sin ignorar la necesidad del compañero.
+
+No se responde de manera agresiva ni se acepta una responsabilidad que podría afectar el cumplimiento de las tareas propias.
+
+También se propone una alternativa, demostrando disposición para colaborar cuando exista disponibilidad.
+
+### Regulación emocional
+
+Para mantener una comunicación adecuada se debe:
+
+- Utilizar un tono tranquilo.
+- Evitar responder de forma impulsiva.
+- Explicar el límite claramente.
+- Mantener respeto hacia la otra persona.
+- Escuchar primero lo que necesita el compañero.
