@@ -34,7 +34,7 @@ Aplicar técnicas de comunicación asertiva en diferentes situaciones académica
 | **Todos** | Revisión final, discusión de los escenarios, conclusiones y reunión por Meet. |
 
 ---
-
+## 4.1 Escenario 1 - Jimena
 ### Situación
 
 Un compañero solicita ayuda urgente para terminar una actividad, pero en ese momento tengo una carga de trabajo alta y también debo terminar mis propias responsabilidades.
